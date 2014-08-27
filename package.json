@@ -13,6 +13,8 @@
     "jade"
   ],
   "author": "Jaganathan B",
-  "engine": "node 0.11.12",
+  "engines": {
+    "node": "0.11.x"
+  },
   "license": "ISC"
 }
