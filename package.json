@@ -4,7 +4,7 @@
   "description": "A simple node app which explores node + koa + jade",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo 'Error: no test specified' && exit 1",
     "start": "node --harmony app.js"
   },
   "keywords": [
